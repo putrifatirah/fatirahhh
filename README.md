@@ -1,2 +1,8 @@
 # fatirahhh
-no
+## fatirah
+### fatirah
+> 1)nononon
+```
+print
+scan
+```
